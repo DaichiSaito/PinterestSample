@@ -280,12 +280,12 @@
                   symbolName = "PinterestSwift.NTHorizontalPageViewController.init (PinterestSwift.NTHorizontalPageViewController.Type)(collectionViewLayout : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UICollectionViewLayout&gt;, currentIndexPath : __ObjC.NSIndexPath) -&gt; PinterestSwift.NTHorizontalPageViewController"
                   moduleName = "PinterestSwift"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/daichisaito/Downloads/PinterestSwift-master%202/PinterestSwift/NTHorizontalPageViewController.swift"
-                  timestampString = "479745773.104768"
+                  urlString = "file:///Users/daichisaito/Swift_Practice/PinterestSample/PinterestSwift/NTHorizontalPageViewController.swift"
+                  timestampString = "480245552.801716"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "45"
-                  endingLineNumber = "45"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
                   offsetFromSymbolStart = "847">
                </Location>
                <Location
@@ -295,12 +295,12 @@
                   symbolName = "PinterestSwift.NTHorizontalPageViewController.(init (PinterestSwift.NTHorizontalPageViewController.Type) -&gt; (collectionViewLayout : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UICollectionViewLayout&gt;, currentIndexPath : __ObjC.NSIndexPath) -&gt; PinterestSwift.NTHorizontalPageViewController).(closure #1)"
                   moduleName = "PinterestSwift"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/daichisaito/Downloads/PinterestSwift-master%202/PinterestSwift/NTHorizontalPageViewController.swift"
-                  timestampString = "479745773.105088"
+                  urlString = "file:///Users/daichisaito/Swift_Practice/PinterestSample/PinterestSwift/NTHorizontalPageViewController.swift"
+                  timestampString = "480245552.802036"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "45"
-                  endingLineNumber = "45"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
                   offsetFromSymbolStart = "12">
                </Location>
                <Location
@@ -310,12 +310,12 @@
                   symbolName = "PinterestSwift.NTHorizontalPageViewController.(init (PinterestSwift.NTHorizontalPageViewController.Type) -&gt; (collectionViewLayout : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UICollectionViewLayout&gt;, currentIndexPath : __ObjC.NSIndexPath) -&gt; PinterestSwift.NTHorizontalPageViewController).(closure #2)"
                   moduleName = "PinterestSwift"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/daichisaito/Downloads/PinterestSwift-master%202/PinterestSwift/NTHorizontalPageViewController.swift"
-                  timestampString = "479745773.105418"
+                  urlString = "file:///Users/daichisaito/Swift_Practice/PinterestSample/PinterestSwift/NTHorizontalPageViewController.swift"
+                  timestampString = "480245552.802399"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "46"
-                  endingLineNumber = "46"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
                   offsetFromSymbolStart = "27">
                </Location>
             </Locations>
