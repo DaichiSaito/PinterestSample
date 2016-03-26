@@ -13,6 +13,7 @@ let waterfallViewCellIdentify = "waterfallViewCellIdentify"
 // てすと
 //　テスト２
 // てすと３
+// iMac
 class NavigationControllerDelegate: NSObject, UINavigationControllerDelegate{
     // ナビゲーションがされる時に呼ばれる。
     func navigationController(navigationController: UINavigationController, animationControllerForOperation operation: UINavigationControllerOperation, fromViewController fromVC: UIViewController, toViewController toVC: UIViewController) -> UIViewControllerAnimatedTransitioning?{
