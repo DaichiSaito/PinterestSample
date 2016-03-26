@@ -36,6 +36,8 @@ class NavigationControllerDelegate: NSObject, UINavigationControllerDelegate{
             transition.presenting = operation == .Pop
             return  transition
         }else{
+            print("fromVCとかのとこのreturn nil")
+            print("どのタイミングで呼ばれるのかわからない。")
             return nil
         }
         
@@ -110,7 +112,7 @@ class NTWaterfallViewController:UICollectionViewController,CHTCollectionViewDele
     
     func pageViewControllerLayout () -> UICollectionViewFlowLayout {
         let flowLayout = UICollectionViewFlowLayout()
-        // navigationBarがあるかないかでレイアウト出し分け
+        // navigationBarがあるかないかでレイアウト出し分け。?で聞いている。
         let itemSize  = self.navigationController!.navigationBarHidden ?
         CGSizeMake(screenWidth, screenHeight+20) : CGSizeMake(screenWidth, screenHeight-navigationHeaderAndStatusbarHeight)
         flowLayout.itemSize = itemSize

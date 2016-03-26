@@ -14,6 +14,7 @@ let cellIdentify = "cellIdentify"
 class NTTableViewCell : UITableViewCell{
     
     override init(style: UITableViewCellStyle, reuseIdentifier: String!) {
+        print("NTTableViewCellのinit")
         super.init(style: style, reuseIdentifier: reuseIdentifier)
         self.textLabel?.font = UIFont.systemFontOfSize(13)
     }
@@ -28,6 +29,7 @@ class NTTableViewCell : UITableViewCell{
     */
     override func layoutSubviews() {
         print("layoutSubviews")
+        print("testダイソン")
         super.layoutSubviews()
         let imageView :UIImageView = self.imageView!;
         imageView.frame = CGRectZero
@@ -101,6 +103,9 @@ class NTHorizontalPageViewCell : UICollectionViewCell, UITableViewDelegate, UITa
     }
     
     func tableView(tableView: UITableView, didSelectRowAtIndexPath indexPath: NSIndexPath){
+        print("tableViewがタップされた。")
+        // なんかしらんけどlayoutSubviews→layoutSubviews→tableViewがタップされた→layoutSubviewsって順に呼ばれる。
+        // layoutSubviews→tableViewがタップされた。→layoutSubviews→layoutSubviewsって呼ばれることの方が多い？
         tappedAction?()
     }
     

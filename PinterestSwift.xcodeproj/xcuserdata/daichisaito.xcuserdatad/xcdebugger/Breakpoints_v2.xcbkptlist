@@ -26,7 +26,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "PinterestSwift/NTNavigationController.swift"
-            timestampString = "479646171.185909"
+            timestampString = "480650462.926953"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "15"
@@ -42,11 +42,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "PinterestSwift/NTNavigationController.swift"
-            timestampString = "479646359.097952"
+            timestampString = "480650462.926953"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "23"
-            endingLineNumber = "23"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
             landmarkName = "popViewControllerAnimated(_:)"
             landmarkType = "5">
          </BreakpointContent>
@@ -58,11 +58,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "PinterestSwift/NTWaterfallViewController.swift"
-            timestampString = "479743522.721287"
+            timestampString = "480245802.716182"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "20"
-            endingLineNumber = "20"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
             landmarkName = "navigationController(_:animationControllerForOperation:fromViewController:toViewController:)"
             landmarkType = "5">
          </BreakpointContent>
@@ -74,11 +74,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "PinterestSwift/NTWaterfallViewController.swift"
-            timestampString = "479743522.721287"
+            timestampString = "480650506.456496"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "52"
-            endingLineNumber = "52"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
             landmarkName = "viewDidLoad()"
             landmarkType = "5">
          </BreakpointContent>
@@ -90,11 +90,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "PinterestSwift/NTWaterfallViewController.swift"
-            timestampString = "479743522.721287"
+            timestampString = "480650506.456496"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "46"
-            endingLineNumber = "46"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
             landmarkName = "NTWaterfallViewController"
             landmarkType = "3">
             <Locations>
@@ -153,11 +153,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "PinterestSwift/NTWaterfallViewController.swift"
-            timestampString = "479743522.721287"
+            timestampString = "480650506.456496"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "61"
-            endingLineNumber = "61"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
             landmarkName = "viewDidLoad()"
             landmarkType = "5">
          </BreakpointContent>
@@ -169,11 +169,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "PinterestSwift/NTWaterfallViewController.swift"
-            timestampString = "479745772.080267"
+            timestampString = "480650506.456496"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "76"
-            endingLineNumber = "76"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
             landmarkName = "collectionView(_:layout:sizeForItemAtIndexPath:)"
             landmarkType = "5">
          </BreakpointContent>
@@ -185,11 +185,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "PinterestSwift/NTWaterfallViewController.swift"
-            timestampString = "479745772.080267"
+            timestampString = "480650506.456496"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "85"
-            endingLineNumber = "85"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
             landmarkName = "collectionView(_:cellForItemAtIndexPath:)"
             landmarkType = "5">
          </BreakpointContent>
@@ -201,11 +201,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "PinterestSwift/NTWaterfallViewController.swift"
-            timestampString = "479745772.080267"
+            timestampString = "480650506.456496"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "94"
-            endingLineNumber = "94"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
             landmarkName = "collectionView(_:numberOfItemsInSection:)"
             landmarkType = "5">
          </BreakpointContent>
@@ -213,15 +213,15 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "PinterestSwift/NTWaterfallViewController.swift"
-            timestampString = "479745772.080267"
+            timestampString = "480650506.456496"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "101"
-            endingLineNumber = "101"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
             landmarkName = "collectionView(_:didSelectItemAtIndexPath:)"
             landmarkType = "5">
          </BreakpointContent>
@@ -229,15 +229,15 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "PinterestSwift/NTWaterfallViewController.swift"
-            timestampString = "479752467.681498"
+            timestampString = "480650506.456496"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "110"
-            endingLineNumber = "110"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
             landmarkName = "pageViewControllerLayout()"
             landmarkType = "5">
          </BreakpointContent>
@@ -261,7 +261,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "PinterestSwift/NTHorizontalPageViewController.swift"
@@ -274,29 +274,29 @@
             landmarkType = "5">
             <Locations>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "PinterestSwift.NTHorizontalPageViewController.init (PinterestSwift.NTHorizontalPageViewController.Type)(collectionViewLayout : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UICollectionViewLayout&gt;, currentIndexPath : __ObjC.NSIndexPath) -&gt; PinterestSwift.NTHorizontalPageViewController"
+                  symbolName = "PinterestSwift.NTHorizontalPageViewController.init (collectionViewLayout : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UICollectionViewLayout&gt;, currentIndexPath : __ObjC.NSIndexPath) -&gt; PinterestSwift.NTHorizontalPageViewController"
                   moduleName = "PinterestSwift"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/daichisaito/Swift_Practice/PinterestSample/PinterestSwift/NTHorizontalPageViewController.swift"
-                  timestampString = "480245552.801716"
+                  urlString = "file:///Users/daichisaito/Swift_Practice/PinterestSwift-master%202/PinterestSwift/NTHorizontalPageViewController.swift"
+                  timestampString = "480612467.460967"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "46"
                   endingLineNumber = "46"
-                  offsetFromSymbolStart = "847">
+                  offsetFromSymbolStart = "838">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "PinterestSwift.NTHorizontalPageViewController.(init (PinterestSwift.NTHorizontalPageViewController.Type) -&gt; (collectionViewLayout : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UICollectionViewLayout&gt;, currentIndexPath : __ObjC.NSIndexPath) -&gt; PinterestSwift.NTHorizontalPageViewController).(closure #1)"
+                  symbolName = "PinterestSwift.NTHorizontalPageViewController.(init (collectionViewLayout : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UICollectionViewLayout&gt;, currentIndexPath : __ObjC.NSIndexPath) -&gt; PinterestSwift.NTHorizontalPageViewController).(closure #1)"
                   moduleName = "PinterestSwift"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/daichisaito/Swift_Practice/PinterestSample/PinterestSwift/NTHorizontalPageViewController.swift"
-                  timestampString = "480245552.802036"
+                  urlString = "file:///Users/daichisaito/Swift_Practice/PinterestSwift-master%202/PinterestSwift/NTHorizontalPageViewController.swift"
+                  timestampString = "480612467.461051"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "46"
@@ -304,14 +304,14 @@
                   offsetFromSymbolStart = "12">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "PinterestSwift.NTHorizontalPageViewController.(init (PinterestSwift.NTHorizontalPageViewController.Type) -&gt; (collectionViewLayout : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UICollectionViewLayout&gt;, currentIndexPath : __ObjC.NSIndexPath) -&gt; PinterestSwift.NTHorizontalPageViewController).(closure #2)"
+                  symbolName = "PinterestSwift.NTHorizontalPageViewController.(init (collectionViewLayout : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UICollectionViewLayout&gt;, currentIndexPath : __ObjC.NSIndexPath) -&gt; PinterestSwift.NTHorizontalPageViewController).(closure #2)"
                   moduleName = "PinterestSwift"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/daichisaito/Swift_Practice/PinterestSample/PinterestSwift/NTHorizontalPageViewController.swift"
-                  timestampString = "480245552.802399"
+                  urlString = "file:///Users/daichisaito/Swift_Practice/PinterestSwift-master%202/PinterestSwift/NTHorizontalPageViewController.swift"
+                  timestampString = "480612467.461112"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "47"
@@ -356,7 +356,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "PinterestSwift/NTHorizontalPageViewController.swift"
@@ -376,11 +376,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "PinterestSwift/NTWaterfallViewController.swift"
-            timestampString = "479752467.681498"
+            timestampString = "480650506.456496"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "124"
-            endingLineNumber = "124"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
             landmarkName = "viewWillAppearWithPageIndex(_:)"
             landmarkType = "5">
          </BreakpointContent>
@@ -392,11 +392,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "PinterestSwift/NTWaterfallViewController.swift"
-            timestampString = "479752467.681498"
+            timestampString = "480650506.456496"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "134"
-            endingLineNumber = "134"
+            startingLineNumber = "137"
+            endingLineNumber = "137"
             landmarkName = "viewWillAppearWithPageIndex(_:)"
             landmarkType = "5">
          </BreakpointContent>
@@ -404,15 +404,15 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "PinterestSwift/NTWaterfallViewController.swift"
-            timestampString = "479752467.681498"
+            timestampString = "480650506.456496"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "147"
-            endingLineNumber = "147"
+            startingLineNumber = "150"
+            endingLineNumber = "150"
             landmarkName = "transitionCollectionView()"
             landmarkType = "5">
          </BreakpointContent>
@@ -420,7 +420,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "PinterestSwift/NTTransition.swift"
@@ -440,11 +440,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "PinterestSwift/NTHorizontalPageViewCell.swift"
-            timestampString = "479743144.456319"
+            timestampString = "480649650.507749"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "31"
-            endingLineNumber = "31"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
             landmarkName = "layoutSubviews()"
             landmarkType = "5">
          </BreakpointContent>
@@ -456,11 +456,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "PinterestSwift/NTHorizontalPageViewCell.swift"
-            timestampString = "479742853.181446"
+            timestampString = "480649650.507749"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "35"
-            endingLineNumber = "35"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
             landmarkName = "layoutSubviews()"
             landmarkType = "5">
          </BreakpointContent>
@@ -488,12 +488,76 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "PinterestSwift/NTWaterfallViewController.swift"
-            timestampString = "479744515.643185"
+            timestampString = "480650506.456496"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "63"
-            endingLineNumber = "63"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
             landmarkName = "viewDidLoad()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PinterestSwift/NTWaterfallViewCell.swift"
+            timestampString = "480648937.788371"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "snapShotForTransition()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PinterestSwift/NTHorizontalPageViewCell.swift"
+            timestampString = "480649650.507749"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "tableView(_:cellForRowAtIndexPath:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PinterestSwift/NTWaterfallViewController.swift"
+            timestampString = "480650506.456496"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "collectionView(_:didSelectItemAtIndexPath:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PinterestSwift/NTHorizontalPageViewCell.swift"
+            timestampString = "480649650.507749"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "tableView(_:cellForRowAtIndexPath:)"
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
@@ -504,12 +568,91 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "PinterestSwift/NTWaterfallViewCell.swift"
-            timestampString = "479745767.647744"
+            timestampString = "480648937.788371"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "30"
-            endingLineNumber = "30"
-            landmarkName = "snapShotForTransition()"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "layoutSubviews()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PinterestSwift/NTHorizontalPageViewCell.swift"
+            timestampString = "480649754.158921"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "NTHorizontalPageViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PinterestSwift.NTHorizontalPageViewCell.tableView.getter : __ObjC.UITableView"
+                  moduleName = "PinterestSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daichisaito/Swift_Practice/PinterestSwift-master%202/PinterestSwift/NTHorizontalPageViewCell.swift"
+                  timestampString = "480649754.160598"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PinterestSwift.NTHorizontalPageViewCell.init (frame : __C.CGRect) -&gt; PinterestSwift.NTHorizontalPageViewCell"
+                  moduleName = "PinterestSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daichisaito/Swift_Practice/PinterestSwift-master%202/PinterestSwift/NTHorizontalPageViewCell.swift"
+                  timestampString = "480649754.160686"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "206">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PinterestSwift.NTHorizontalPageViewCell.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;PinterestSwift.NTHorizontalPageViewCell&gt;"
+                  moduleName = "PinterestSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daichisaito/Swift_Practice/PinterestSwift-master%202/PinterestSwift/NTHorizontalPageViewCell.swift"
+                  timestampString = "480649754.160747"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "174">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PinterestSwift/NTWaterfallViewController.swift"
+            timestampString = "480650506.456496"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "navigationController(_:animationControllerForOperation:fromViewController:toViewController:)"
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>

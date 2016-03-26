@@ -20,6 +20,7 @@ class NTWaterfallViewCell :UICollectionViewCell, NTTansitionWaterfallGridViewPro
         contentView.addSubview(imageViewContent)
     }
     override func layoutSubviews() {
+        print("layoutSubviews-NTWaterfallViewCell")
         super.layoutSubviews()
         imageViewContent.frame = CGRectMake(0, 0, frame.size.width, frame.size.height)
         // このimageNameはどこで設定されるのだ。

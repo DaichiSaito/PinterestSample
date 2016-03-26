@@ -13,8 +13,10 @@ class NTNavigationController : UINavigationController{
     {
         //viewWillAppearWithPageIndex
         let childrenCount = self.viewControllers.count
+        // self.viewControllers[0]にはNTWaterfallViewControllerが入っている。
         let toViewController = self.viewControllers[childrenCount-2] as! NTWaterFallViewControllerProtocol
         let toView = toViewController.transitionCollectionView()
+        // self.viewControllers[1]にはNTHorizontalPageViewControllerが入っている。
         let popedViewController = self.viewControllers[childrenCount-1] as! UICollectionViewController
         let popView  = popedViewController.collectionView!;
         let indexPath = popView.fromPageIndexPath()
