@@ -12,6 +12,7 @@ let waterfallViewCellIdentify = "waterfallViewCellIdentify"
 // NTWaterfallViewControllerを最初にインスタンス化した時(viewDidLoad)にこのデリゲートも生成される。
 // てすと
 //　テスト２
+// てすと３
 class NavigationControllerDelegate: NSObject, UINavigationControllerDelegate{
     // ナビゲーションがされる時に呼ばれる。
     func navigationController(navigationController: UINavigationController, animationControllerForOperation operation: UINavigationControllerOperation, fromViewController fromVC: UIViewController, toViewController toVC: UIViewController) -> UIViewControllerAnimatedTransitioning?{
